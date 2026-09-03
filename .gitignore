@@ -1,0 +1,22 @@
+# 可执行文件（Windows/Linux/Mac）
+*.exe
+*.out
+*.app
+
+# 编译中间文件（目标文件）
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+
+# VS Code 
+.vscode/
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 编译临时目录
+build/
